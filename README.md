@@ -39,7 +39,6 @@ td, th {
 <br/>
 
 ## Repositorys  
-<table><tr><td valign="top" width="50%">
 
 <a href="https://github.com/Jotatag" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -48,27 +47,17 @@ td, th {
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 
-</td><td valign="top" width="50%">
+[Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2046%20mins-blue)
 
-<div align="center">  
-[![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2046%20mins-blue)
+[Profile Views](http://img.shields.io/badge/Profile%20Views-932-blue)
 
-[![Profile Views](http://img.shields.io/badge/Profile%20Views-932-blue)
-
-[![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-</div>
-
-</td></tr></table>  
+[Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 <br/>
 
 ## Some Stats  
-<table style="border:0px"><tr style="border:0px"><td valign="top" width="50%" style="border:0px">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical)](https://git.io/streak-stats)
 
-</td><td valign="top" width="50%" style="border:0px">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotatag&hide_border=true&layout=compact" align="left" />
 
-</td></tr></table>
