@@ -6,9 +6,10 @@
 [![Github: jotatag](https://img.shields.io/badge/jotatag-FE428E?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jotatag/)](https://github.com/Jotatag)
 
 ## :chart_with_upwards_trend: Some Stats  
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotatag&hide_border=true&layout=compact" align="right" />
+<div>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotatag&hide_border=true&layout=compact" align="right" />
+</div>
 
 ## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
