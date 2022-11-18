@@ -57,7 +57,7 @@ td, th {
 
 ## Some Stats  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical" align="left" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotatag&hide_border=true&layout=compact" align="right" />
 
