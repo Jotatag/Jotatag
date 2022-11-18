@@ -7,11 +7,9 @@
 
 ## :chart_with_upwards_trend: Some Stats  
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotatag&hide_border=true&layout=compact" align="right" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotatag&hide_border=true&layout=compact"  />
 </div>
-
-<br />
 
 ## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
