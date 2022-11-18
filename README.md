@@ -8,6 +8,7 @@
 <p>Hi, I'm João Pedro Tagliaboa, a senior front-end developer thar is working from home since the pandemic :pill:</p>
 
 <p>This is my personal repository and in here I'm trying to publish most of my learnings, things I find exciting and many others, like:</p>
+
 - First item
 - Second item
 - Third item
