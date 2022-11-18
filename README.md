@@ -57,7 +57,7 @@
 <br/>
 
 ## Some Stats  
-<table style="border:0px"><trstyle="border:0px"><td valign="top" width="50%" style="border:0px">
+<table style="border:0px"><tr style="border:0px"><td valign="top" width="50%" style="border:0px">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical)](https://git.io/streak-stats)
 
