@@ -1,10 +1,9 @@
 <h2>I'm João Pedro</h2>
 <p><em>Senior Front-end Developer at <a href="https://cwi.com.br/">CWI Software</a></em></p>
 
-[![Linkedin: jotatag](https://img.shields.io/badge/-jotatag-FE428E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-tagliaboa/)](https://www.linkedin.com/in/joao-pedro-tagliaboa/)
-[![Gmail: joaopedrotagliaboa](https://img.shields.io/badge/joaopedrotagliaboa-FE428E?style=flat-square&logo=gmail&logoColor=black/)](joaopedrotagliaboa@gmail.com)
-[![Leetcode: joltsz](https://img.shields.io/badge/-joltsz-FE428E?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Joltsz/)](https://leetcode.com/Joltsz/)
-![](https://visitor-badge.glitch.me/badge?page_id=jotatag)
+[![Linkedin: jotatag](https://img.shields.io/badge/-jotatag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-tagliaboa/)](https://www.linkedin.com/in/joao-pedro-tagliaboa/)
+[![Leetcode: joltsz](https://img.shields.io/badge/-joltsz-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/Joltsz/)](https://leetcode.com/Joltsz/)
+[![Gitlab: jotatag](https://img.shields.io/badge/joltz-FFA116?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Joltz/)](https://gitlab.com/Joltz/)
 
 ## Things I Might Know About
 <div align="center">  
