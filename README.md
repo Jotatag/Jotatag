@@ -5,7 +5,7 @@
 [![Leetcode: joltsz](https://img.shields.io/badge/-joltsz-FE428E?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Joltsz/)](https://leetcode.com/Joltsz/)
 [![Github: jotatag](https://img.shields.io/badge/jotatag-FE428E?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jotatag/)](https://github.com/Jotatag)
 
-<p>Hi, I'm João Pedro Tagliaboa, a senior front-end developer thar is working from home since the pandemic :pill:</p>
+<p>Hi, I'm João Pedro Tagliaboa, a senior front-end developer that is working from home since the pandemic :pill:</p>
 
 <p>This is my personal repository and in here I'm trying to publish:</p>
 
