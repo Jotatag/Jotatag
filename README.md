@@ -7,12 +7,12 @@
 
 <p>Hi, I'm João Pedro Tagliaboa, a senior front-end developer thar is working from home since the pandemic :pill:</p>
 
-<p>This is my personal repository and in here I'm trying to publish most of my learnings, things I find exciting and many others, like:</p>
+<p>This is my personal repository and in here I'm trying to publish:</p>
 
-- First item
-- Second item
-- Third item
-- Fourth item
+- My learnings :closed_book:
+- Things that I find excinting :tada:
+- Some dumb stuff :joy: 
+- And so on...
 
 ## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
