@@ -38,6 +38,7 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical"  align="center" />
 </div>
+<br />
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotatag&layout=compact&theme=radical"  align="center" />
 </div>
