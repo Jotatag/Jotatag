@@ -36,6 +36,6 @@
 
 ## :chart_with_upwards_trend: Some Stats  
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotatag&layout=compact&theme=radical"  align="right"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical"  align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotatag&layout=compact&theme=radical"  align="center" />
 </div>
