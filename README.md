@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h2>I'm João Pedro</h2>
 <p><em>Senior Front-end Developer at <a href="https://cwi.com.br/">CWI Software</a></em></p>
 
