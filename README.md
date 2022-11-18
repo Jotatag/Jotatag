@@ -15,7 +15,7 @@
 - Some dumb stuff :sunglasses:
 - And so on...
 
-<p>This profile looks way better in a dark theme :full_moon:</p>
+<p>This profile looks way better in a dark theme :first_quarter_moon_with_face:</p>
 
 ## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
