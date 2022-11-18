@@ -1,4 +1,4 @@
-<h2>I'm João Pedro</h2>
+# :wave: I'm João Pedro
 <p><em>Senior Front-end Developer at <a href="https://cwi.com.br/">CWI Software</a></em></p>
 
 [![Linkedin: jotatag](https://img.shields.io/badge/-jotatag-FE428E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-tagliaboa/)](https://www.linkedin.com/in/joao-pedro-tagliaboa/)
@@ -31,7 +31,7 @@
 
 <br/>
 
-## Some Stats  
+## :chart_with_upwards_trend: Some Stats  
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical" align="left" />
 
