@@ -5,7 +5,7 @@
 [![Leetcode: joltsz](https://img.shields.io/badge/-joltsz-FE428E?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Joltsz/)](https://leetcode.com/Joltsz/)
 [![Github: jotatag](https://img.shields.io/badge/jotatag-FE428E?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jotatag/)](https://github.com/Jotatag)
 
-## Things I Might Know About
+## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -27,24 +27,7 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-</div>  
-
-<br/>
-
-## Repositorys  
-
-<a href="https://github.com/Jotatag" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/Jotatag" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-
-[Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2046%20mins-blue)
-
-[Profile Views](http://img.shields.io/badge/Profile%20Views-932-blue)
-
-[Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+</div> 
 
 <br/>
 
