@@ -5,14 +5,10 @@
 [![Leetcode: joltsz](https://img.shields.io/badge/-joltsz-FE428E?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Joltsz/)](https://leetcode.com/Joltsz/)
 [![Github: jotatag](https://img.shields.io/badge/jotatag-FE428E?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jotatag/)](https://github.com/Jotatag)
 
-## :chart_with_upwards_trend: Some Stats  
-<div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotatag&layout=compact&theme=radical"  align="right"/>
-</div>
+<p>Hi, I'm João Pedro Tagliaboa, a senior front-end developer thar is working from home since the pandemic :pill:</p>
 
 ## :hammer_and_wrench: Things I Might Know About
-<div>  
+<div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -29,4 +25,10 @@
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
   <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
   <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
+</div>
+
+## :chart_with_upwards_trend: Some Stats  
+<div>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jotatag&theme=radical"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotatag&layout=compact&theme=radical"  align="right"/>
 </div>
