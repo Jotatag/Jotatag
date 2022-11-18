@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotatag&hide_border=true&layout=compact" align="right" />
 </div>
 
+<br />
+
 ## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
