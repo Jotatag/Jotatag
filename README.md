@@ -11,7 +11,7 @@
 
 - My learnings :closed_book:
 - Things that I find excinting :tada:
-- Some dumb stuff :joy: 
+- Some dumb stuff :sunglasses:
 - And so on...
 
 ## :hammer_and_wrench: Things I Might Know About
