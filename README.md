@@ -7,6 +7,12 @@
 
 <p>Hi, I'm João Pedro Tagliaboa, a senior front-end developer thar is working from home since the pandemic :pill:</p>
 
+<p>This is my personal repository and in here I'm trying to publish most of my learnings, things I find exciting and many others, like:</p>
+- First item
+- Second item
+- Third item
+- Fourth item
+
 ## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
