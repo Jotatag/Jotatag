@@ -3,7 +3,7 @@
 
 [![Linkedin: jotatag](https://img.shields.io/badge/-jotatag-FE428E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-tagliaboa/)](https://www.linkedin.com/in/joao-pedro-tagliaboa/)
 [![Leetcode: joltsz](https://img.shields.io/badge/-joltsz-FE428E?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Joltsz/)](https://leetcode.com/Joltsz/)
-[![Gmail: joaopedrotagliaboa](https://img.shields.io/badge/joaopedrotagliaboa-FE428E?style=flat-square&logo=gmail&logoColor=white)]
+![Gmail: joaopedrotagliaboa](https://img.shields.io/badge/joaopedrotagliaboa-FE428E?style=flat-square&logo=gmail&logoColor=white)
 [![Github: jotatag](https://img.shields.io/badge/jotatag-FE428E?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jotatag/)](https://github.com/Jotatag)
 
 <p>Hi, I'm João Pedro Tagliaboa, a senior front-end developer that is working from home since the pandemic :pill:</p>
