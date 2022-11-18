@@ -15,6 +15,8 @@
 - Some dumb stuff :sunglasses:
 - And so on...
 
+<p>This profile looks way better in a dark theme :full_moon:</p>
+
 ## :hammer_and_wrench: Things I Might Know About
 <div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
