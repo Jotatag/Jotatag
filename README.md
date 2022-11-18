@@ -1,4 +1,4 @@
-# :wave: I'm João Pedro
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm João Pedro
 <p><em>Senior Front-end Developer at <a href="https://cwi.com.br/">CWI Software</a></em></p>
 
 [![Linkedin: jotatag](https://img.shields.io/badge/-jotatag-FE428E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-tagliaboa/)](https://www.linkedin.com/in/joao-pedro-tagliaboa/)
