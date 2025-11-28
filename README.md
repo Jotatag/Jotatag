@@ -6,7 +6,7 @@
 ![Gmail: joaopedrotagliaboa](https://img.shields.io/badge/joaopedrotagliaboa-FE428E?style=flat-square&logo=gmail&logoColor=white)
 [![Github: jotatag](https://img.shields.io/badge/jotatag-FE428E?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jotatag/)](https://github.com/Jotatag)
 
-<p>Hi, I'm João Pedro Tagliaboa, brazilian 🇧🇷, anime enthusiast and senior front-end developer that is working from home since the pandemic :pill:</p>
+<p>Hi, I'm João Pedro Tagliaboa, brazilian 🇧🇷, senior front-end developer that is working from home since the pandemic :pill:</p>
 
 <p>This is my personal repository and in here I'm trying to publish:</p>
 
